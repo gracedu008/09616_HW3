@@ -15,4 +15,7 @@ Read more about the data here:
 
 [1] Bileschi, M. L., Belanger, D., Bryant, D. H., Sanderson, T., Carter, B., Sculley, D., … & Colwell, L. J. (2022). Using deep learning to annotate the protein universe. Nature Biotechnology, 40(6), 932-937.
 
-## My submission scored 0.99759 in accuracy
+## Evaluation
+The evaluation metric for this competition is accuracy score (sklearn.metrics.accuracy_score).
+
+### My submission scored 0.99759 in accuracy
