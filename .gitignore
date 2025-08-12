@@ -12,3 +12,10 @@ __pycache__/
 *.pkl
 lightning_logs/
 **/*.ckpt
+!train_data.csv
+!val_data.csv
+!test_data.csv
+!sample_submission.csv
+!submission.csv
+!training_curves.png
+!selected_families.pkl
