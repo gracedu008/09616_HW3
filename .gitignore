@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# data / artifacts
+*.csv
+*.pkl
+lightning_logs/
+**/*.ckpt
